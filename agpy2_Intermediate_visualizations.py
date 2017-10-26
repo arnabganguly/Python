@@ -10,5 +10,5 @@ plt.ylabel("Life expectancy")
 tick_val = [1000,10000,100000]
 tick_lab = ['1k','10k','100k']
 plt.xticks(tick_val,tick_lab)
-plt.show()
+plt.show() 
 
